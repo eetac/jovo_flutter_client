@@ -1,6 +1,6 @@
 name: jovo_flutter_client
 description: A Dart Jovo Client for Jovo's Web platform.
-version: 0.0.1.1
+version: 0.0.2
 homepage: https://github.com/eetac/jovo_flutter_client
 
 environment:
