@@ -20,10 +20,10 @@ A Dart Jovo client for Jovo's Web platform.
 * Preset Launch and Text requests.
 * Http service to send and receive petitons with a Jovo WebHook.
 
-## Getting started
+<!-- ## Getting started
 
 TODO: List prerequisites and provide or point to information on how to
-start using the package.
+start using the package. -->
 
 ## Usage
 
